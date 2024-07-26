@@ -1,0 +1,8 @@
+mariadb:
+  enabled: false
+
+externalDatabase:
+  host: 192.168.202.10
+  user: wordpress_user
+  password: wordpress_pwd
+  database: wordpress_db
