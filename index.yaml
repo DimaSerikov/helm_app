@@ -3,7 +3,17 @@ entries:
   first-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-07-26T12:44:31.182110112Z"
+    created: "2024-07-26T15:00:58.784113028Z"
+    description: A Helm chart for Kubernetes
+    digest: 16ee3c9fefbe8c63575eaca6302668dcfddd1b72944e6584634d37005aaf63dd
+    name: first-app
+    type: application
+    urls:
+    - https://dimaserikov.github.io/helm_app/helm-releases/first-app-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-07-26T15:00:58.780198984Z"
     description: A Helm chart for Kubernetes
     digest: 36015a76e7f6ad8f1c8b638aa268cdf8488bbe62a76c9cb366acf8ce7805854c
     name: first-app
@@ -13,7 +23,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-07-26T12:44:31.179826716Z"
+    created: "2024-07-26T15:00:58.776155887Z"
     description: A Helm chart for Kubernetes
     digest: 6cd7e8b567c10de45f1a20a7f3f358a4325d7174b38dcef19f5c4748c794984b
     name: first-app
@@ -23,7 +33,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-07-26T12:44:31.179071774Z"
+    created: "2024-07-26T15:00:58.771129766Z"
     description: A Helm chart for Kubernetes
     digest: edadbfcb6a8134d5efeea6ce5e335d02b2c0a78d9ab91f7ebc5a0b9382f876e6
     name: first-app
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://dimaserikov.github.io/helm_app/helm-releases/first-app-0.1.0.tgz
     version: 0.1.0
-generated: "2024-07-26T12:44:31.177370072Z"
+generated: "2024-07-26T15:00:58.763854074Z"
